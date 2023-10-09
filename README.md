@@ -12,7 +12,7 @@ Alltså, spelar A får bollen att gå över spelare B's långsida, då inkassera
 
 Spelet pågår antingen tills en timer räknat ner till noll, eller tills någon nått en viss poäng. Du bestämmer.
 
-Spelarnas paddlar kan endast röra sig lodrätt, alltså upp och ner. Den kan inte lämna sin kant för att träffa bollen tidigare.
+Spelarnas paddlar kan endast röra sig lodrätt, alltså upp och ner. Den kan inte lämna sin kant för att träffa bollen tidigare. Gör så att ena spelarens paddel rör sig med W och A medan den andra med pil upp och pil ner.
 
 ## Krav
 
