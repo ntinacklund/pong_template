@@ -50,6 +50,3 @@ Timer får gärna vara inkluderat.
 
 Din kod ska ha läsbara variabel-, funktions- och klassnamn för att underlätta för andra att läsa din kod. Likaså ska kommentarer finnas där det behövs.
 
-## Deadline
-
-Deadline för denna uppgift är fredagen den 20e oktober (20/10).
